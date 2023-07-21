@@ -10,8 +10,8 @@
   @extends('layouts.main')
   @section('list-table')
   
-    <table class="table table-striped">
-      <thead class="table-dark">    
+    <table border="1">
+      <thead>    
         <tr>
           <th>ID</th>
           <th>Name</th>
