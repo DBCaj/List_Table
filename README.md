@@ -2,13 +2,9 @@ Important Files:
 
 
 
-resources/views/layouts/list-table.blade.php
+resources/views/layouts/*
 
-resources/views/layouts/main.blade.php
-
-resources/views/components/bootstrap-styles.blade.php
-
-resources/views/components/bootstrap-scripts.blade.php
+resources/views/components/*
 
 database/seeders/DatabaseSeeder.php
 
